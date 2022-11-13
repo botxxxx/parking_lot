@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="commonTextH1">
+        <item name="android:textSize">40sp</item>
+        <item name="android:lineSpacingExtra">0dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+    </style>
+
+    <style name="commonTextH2">
+        <item name="android:textSize">32sp</item>
+        <item name="android:lineSpacingExtra">0.07dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+    </style>
+
+    <style name="commonTextH3">
+        <item name="android:textSize">28sp</item>
+        <item name="android:lineSpacingExtra">0.12dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextH4">
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineSpacingExtra">0dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextH5">
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineSpacingExtra">0.15dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>
