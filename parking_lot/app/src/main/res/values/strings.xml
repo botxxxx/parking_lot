@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">parking_lot</string>
+
+    <string name="loading_dialog">載入中...</string>
+    <string name="btn_ok">確認</string>
+    <string name="btn_confirm">確認</string>
+    <string name="btn_cancel">取消</string>
+    <string name="i_know_it">我知道了</string>
+    <string name="common_edittext_must_not_empty_error">此為必填資料</string>
+    <string name="common_input_format_error">格式輸入錯誤</string>
+
 </resources>

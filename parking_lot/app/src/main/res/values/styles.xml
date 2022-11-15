@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="commonTextH1">
+        <item name="android:textSize">40sp</item>
+        <item name="android:lineSpacingExtra">0dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextH2">
+        <item name="android:textSize">32sp</item>
+        <item name="android:lineSpacingExtra">0.07dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+    </style>
+
+    <style name="commonTextH3">
+        <item name="android:textSize">28sp</item>
+        <item name="android:lineSpacingExtra">0.12dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextH4">
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineSpacingExtra">0dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextH5">
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineSpacingExtra">0.15dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextBody1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineSpacingExtra">0.07dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextBody2">
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineSpacingExtra">0.07dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonTextCaption">
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">0.25dp</item>
+        <item name="android:letterSpacing">0.03</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonBtn1">
+        <item name="android:textSize">22sp</item>
+        <item name="android:letterSpacing">0.06</item>
+        <item name="android:lineSpacingExtra">0.625dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="commonBtn2">
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineSpacingExtra">0.625dp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="othersCardNo">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/noto_sans_tc_medium</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+</resources>
